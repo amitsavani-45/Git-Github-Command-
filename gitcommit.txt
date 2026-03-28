@@ -1,0 +1,14 @@
+git commit kya hota hai?
+
+Simple line me:
+
+git commit = changes ko permanently save karna (history me)
+
+Easy Real Life Example
+
+Tu notes likh raha hai 
+git add = final page select karna
+git commit = us page ki photo leke save kar dena 📸
+
+Matlab:
+commit = ek snapshot (photo) save ho gaya

@@ -19,4 +19,6 @@ Soch:
 Tera folder = ek notebook 
 git init = us notebook me tracking system lagana
 
+gitadd
 
+git commit 
