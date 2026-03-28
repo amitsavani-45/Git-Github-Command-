@@ -1,1 +1,20 @@
 hello welcome to pratice the git and github command 
+
+here are command of git & github how to use it 
+
+1. git init
+
+git init kya hota hai?
+
+ git init ka matlab hota hai:
+
+"Is folder ko Git project bana do"
+
+Jab tu ye command chalata hai, Git us folder ko track karna start kar deta hai 
+
+Easy Example (real life)
+
+Soch:
+
+Tera folder = ek notebook 
+git init = us notebook me tracking system lagana
