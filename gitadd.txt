@@ -1,0 +1,18 @@
+git add
+
+git add kya hota hai?
+
+Simple line me:
+
+git add = changes ko “ready” karna commit ke liye
+
+Easy Real Life Example
+
+
+Tu exam likh raha hai 
+Jo likha = changes
+git add = final answer sheet me daalna
+git commit = teacher ko submit karna
+
+Matlab:
+add = tayyar karna, commit = save karna
