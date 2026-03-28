@@ -8,7 +8,7 @@ Easy Real Life Example
 
 Tu notes likh raha hai 
 git add = final page select karna
-git commit = us page ki photo leke save kar dena 📸
+git commit = us page ki photo leke save kar dena
 
 Matlab:
 commit = ek snapshot (photo) save ho gaya
