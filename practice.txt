@@ -15,7 +15,6 @@ Jab tu ye command chalata hai, Git us folder ko track karna start kar deta hai
 Easy Example (real life)
 
 Soch:
-
 Tera folder = ek notebook 
 git init = us notebook me tracking system lagana
 
